@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://twitter.com/RealKernelPanic"><img alt="Twitter" src="https://img.shields.io/twitter/follow/RealKernelPanic?label=Twitter&style=flat-square&logo=twitter"></a>
   <a href="https://github.com/ItzKernel/ItzKernel"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ItzKernel?label=Github&style=flat-square&logo=github"></a>
-  <a href="https://t.me/itzkernel"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-chat-%2326A5E4?style=flat-square&logo=github"></a>
+  <a href="https://t.me/itzkernel"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-chat-%2326A5E4?style=flat-square&logo=telegram"></a>
   <img alt="Telegram" src="https://img.shields.io/badge/i_use_arch-btw-1793D1?style=flat-square&logo=archlinux">
 </p>
 
