@@ -1,4 +1,12 @@
-<h1 align="center">Ello, Kernel here 👋</h1>
+```
+::::::::::: ::::::::::: ::::::::: :::    ::: :::::::::: :::::::::  ::::    ::: :::::::::: :::        
+    :+:         :+:          :+:  :+:   :+:  :+:        :+:    :+: :+:+:   :+: :+:        :+:        
+    +:+         +:+         +:+   +:+  +:+   +:+        +:+    +:+ :+:+:+  +:+ +:+        +:+        
+    +#+         +#+        +#+    +#++:++    +#++:++#   +#++:++#:  +#+ +:+ +#+ +#++:++#   +#+        
+    +#+         +#+       +#+     +#+  +#+   +#+        +#+    +#+ +#+  +#+#+# +#+        +#+        
+    #+#         #+#      #+#      #+#   #+#  #+#        #+#    #+# #+#   #+#+# #+#        #+#        
+###########     ###     ######### ###    ### ########## ###    ### ###    #### ########## ##########              
+```
 <p align="center">
   <a href="https://twitter.com/RealKernelPanic"><img alt="Twitter" src="https://img.shields.io/twitter/follow/RealKernelPanic?label=Twitter&style=flat-square&logo=twitter"></a>
   <a href="https://github.com/ItzKernel/ItzKernel"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ItzKernel?label=Github&style=flat-square&logo=github"></a>
