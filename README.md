@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,rust,py,markdown,linux,vscode,vim,neovim,github,stackoverflow,cloudflare,nodejs,nest,mongodb,mysql&perline=7)](https://skillicons.dev)
 
 ### Tech i'm able to work with
-[![My Skills](https://skillicons.dev/icons?i=cs,java,lua,php,dotnet,sqlite,graphql,redis,visualstudio,eclipse,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,lua,php,dotnet,sqlite,graphql,redis,git,visualstudio,eclipse,figma&perline=7)](https://skillicons.dev)
 
 ### Tech dont know yet but I wanna learn using them
 [![My Skills](https://skillicons.dev/icons?i=bsd,c,cpp,go,solidity,cmake,deno,react,vue,svelte,haskell,kotlin,postgresql,blender,photoshop&perline=7)](https://skillicons.dev)
